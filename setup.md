@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Setup"
-root: .
+root: ..
+permalink: /setup/
 ---
 
 ## Files
