@@ -1,5 +1,6 @@
 ---
 layout: reference
+Title: Reference
 root: .
 ---
 
